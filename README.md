@@ -1,4 +1,4 @@
-#  Laser Defender
+#  Alien Shooter
 Alien Shooter is a shooting game in which the player controls a spaceship by moving it across the screen and firing at hordes of aliens.  
 The aim is to eliminate as much aliens as possible to get high score.  
 there are 3 types of enemies including Boss spaceship.  
