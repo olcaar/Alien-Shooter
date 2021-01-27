@@ -1,6 +1,9 @@
 #  Laser Defender
-
- Laser Defender is a game made with Unity Game Engine and all scripts written in C#.
+Laser Defender is a shooting game in which the player controls a spaceship by moving it across the screen and firing at hordes of aliens.  
+The aim is to eliminate as much aliens as possible to get high score.  
+there are 3 types of enemies including Boss spaceship.  
+the healte is displayed at the top left of the screen and the score on the top right.  
+Laser Defender is a game made with Unity Game Engine and all scripts written in C#.
  
 
 
