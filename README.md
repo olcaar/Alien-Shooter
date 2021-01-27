@@ -5,7 +5,7 @@
 
 
 # Files
-You can find all the game elements under "Assets/".
+You can find all the game elements under "Assets/".  
 All the code is in "Assets/Scripts/".
 
 
@@ -16,8 +16,8 @@ Click [here](https://itch.io/embed-upload/2808553?color=333333)  to play.
 
 ## Instructions
 
-Use "ASDW'' or arrows to move.
-"Space" to shoot.
+Use "ASDW'' or arrows to move.  
+"Space" to shoot.  
 Have fun!
 
 ## --------------------------------------------------------
