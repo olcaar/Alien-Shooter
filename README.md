@@ -5,7 +5,7 @@
 
 
 # Files
-You can find all the game elements under "Assets/".
+You can find all the game elements under "Assets/". 
 All the code is in "Assets/Scripts/".
 
 
