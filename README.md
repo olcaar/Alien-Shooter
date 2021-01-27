@@ -22,4 +22,4 @@ Have fun!
 
 ## --------------------------------------------------------
 
-![main](Assets/Images/1.png)
+![main](Assets/Images/1.PNG)
