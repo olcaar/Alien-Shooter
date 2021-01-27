@@ -21,5 +21,4 @@ Use "ASDW'' or arrows to move.
 Have fun!
 
 ## --------------------------------------------------------
-![](https://imgur.com/GYC6baI)
-
+[](https://imgur.com/GYC6baI)
