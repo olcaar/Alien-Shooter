@@ -22,4 +22,4 @@ Have fun!
 
 ## --------------------------------------------------------
 
-[main](https://pasteboard.co/JLyhkKA.png)
+![main](https://pasteboard.co/JLyhkKA.png)
