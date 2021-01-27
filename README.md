@@ -22,4 +22,5 @@ Have fun!
 
 ## --------------------------------------------------------
 
-![main](Assets/Images/1.PNG)
+![main](Assets/Images/1.PNG) ![Game](Assets/Images/2.PNG)
+
