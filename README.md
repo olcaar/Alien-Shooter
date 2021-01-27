@@ -3,7 +3,7 @@ Alien Shooter is a shooting game in which the player controls a spaceship by mov
 The aim is to eliminate as much aliens as possible to get high score.  
 there are 3 types of enemies including Boss spaceship.  
 the health is displayed at the top left corner of the screen and the score on the top right.  
-Alien Shooter is a game made with Unity Game Engine and all scripts written in C#.
+Alien Shooter was made with Unity Game Engine and all scripts written in C#.
  
 
 
