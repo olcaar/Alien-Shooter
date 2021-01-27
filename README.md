@@ -22,4 +22,4 @@ Have fun!
 
 ## --------------------------------------------------------
 
-[Imgur](https://imgur.com/GYC6baI)
+[main](https://pasteboard.co/JLyhkKA.png)
